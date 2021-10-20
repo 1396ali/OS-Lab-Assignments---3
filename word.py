@@ -1,6 +1,6 @@
 #3
 
-sentence = str(input('Inter your string : '))
+sentence = str(input('enter your string : '))
 
 a = sentence.count(' ')+1
 
