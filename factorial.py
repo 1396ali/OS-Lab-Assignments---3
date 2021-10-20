@@ -1,6 +1,6 @@
 #4
 
-number = int(input('Inter your number : '))
+number = int(input('enter your number : '))
 
 fa = i = 1
 
